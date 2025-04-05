@@ -1,0 +1,40 @@
+{
+    "defect_image": "captured_images\\types-of-dyeing-defects.jpg",
+    "dominant_color": [
+        230,
+        122,
+        156
+    ],
+    "secondary_colors": [
+        [
+            41,
+            18,
+            25
+        ],
+        [
+            184,
+            106,
+            141
+        ]
+    ],
+    "correction": {
+        "Dominant": [
+            230,
+            122,
+            156
+        ],
+        "Correction Formula": {
+            "Color 1": [
+                189,
+                104,
+                131
+            ],
+            "Color 2": [
+                46,
+                16,
+                15
+            ]
+        }
+    },
+    "corrected_image": "captured_images\\types-of-dyeing-defects_corrected.jpg"
+}
